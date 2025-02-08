@@ -1,0 +1,7 @@
+{
+  "name": "flowFit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
